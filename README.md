@@ -1,5 +1,14 @@
 <h1 align="center">Hi 👋, I'm Kanan</h1>
 <h3 align="center">"Coding the future with Data, AI, and Scalable Software"</h3>
+<p align="center">
+  <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
+</p>
+
+<p align="center">
+<a href= "https://dev.to/ari_hacks"><img src="https://img.icons8.com/windows/32/000000/dev.png"/></a>
+<a href= "https://twitter.com/ari_hacks"><img src="https://img.icons8.com/material-outlined/32/000000/twitter.png"/></a>
+<a href= "https://ko-fi.com/ari_hacks"><img src="https://img.icons8.com/pastel-glyph/32/000000/like--v1.png"/></a>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kharbkanan&label=Profile%20views&color=0e75b6&style=flat" alt="kharbkanan" /> </p>
 

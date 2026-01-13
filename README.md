@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kanan</h1>
-<h3 align="center">"Coding the future with Data, AI, and Scalable Software"</h3>
+<h3 align="center">"🤖 Machine Learning & Data Analytics | 📊 Data-Driven Problem Solver |🧠 Turning data into insights"</h3>
 <p align="center">
   <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
 </p>
